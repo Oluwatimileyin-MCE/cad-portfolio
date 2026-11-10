@@ -1,0 +1,38 @@
+stage,test,input,total_overlap_mm3,plug_zone_mm3,pad_zone_mm3,note
+baseline (capture 0.5),close,lift 1.45 mm,0,,,first contact not reached
+baseline (capture 0.5),close,lift 1.0 mm,26.1,,,pads only
+baseline (capture 0.5),close,lift 0.5 mm,47.9,,,
+baseline (capture 0.5),close,lift 0 mm (seated),187.5,,,plug preload only
+baseline (capture 0.5),lateral,dx 0.0 mm,187.5,,,capture 0.5 mm
+baseline (capture 0.5),lateral,dx 0.2 mm,221.3,,,capture 0.3 mm
+baseline (capture 0.5),lateral,dx 0.3 mm,257.2,,,capture 0.2 mm
+baseline (capture 0.5),lateral,dx 0.4 mm,301.2,,,capture 0.1 mm
+baseline (capture 0.5),lateral,dx 0.5 mm,315.1,,,capture 0.0 mm
+baseline (capture 0.5),lateral,dx=dy 0.3 mm,363.3,,,diagonal shift
+change 1 (capture 0.8),close,lift 1.3 mm,12.8,,,abrupt entry step
+change 1 (capture 0.8),close,lift 1.0 mm,50.4,,,
+change 1 (capture 0.8),close,lift 0.6 mm,84.5,,,
+change 1 (capture 0.8),close,lift 0 mm (seated),187.5,,,
+change 1 (capture 0.8),lateral,dx 0.3 mm,257.2,,,capture 0.5 mm
+change 2 (lead-in 0.7 / pad_h 1.2),close,lift 1.9 mm,0,,,
+change 2 (lead-in 0.7 / pad_h 1.2),close,lift 1.8 mm,1.1,,,smooth onset
+change 2 (lead-in 0.7 / pad_h 1.2),close,lift 1.4 mm,26.3,,,
+change 2 (lead-in 0.7 / pad_h 1.2),close,lift 1.0 mm,71.1,,,
+change 2 (lead-in 0.7 / pad_h 1.2),close,lift 0.8 mm,85.6,,,peak pad overlap
+change 2 (lead-in 0.7 / pad_h 1.2),close,lift 0 mm (seated),187.5,,,
+change 3 (release chamfer + tab),close,lift 30 mm,0,0,0,
+change 3 (release chamfer + tab),close,lift 1.9 mm,0,0,0,
+change 3 (release chamfer + tab),close,lift 1.8 mm,1.1,0,1.1,
+change 3 (release chamfer + tab),close,lift 1.4 mm,26.3,0,26.3,
+change 3 (release chamfer + tab),close,lift 1.0 mm,71.1,0,71.1,
+change 3 (release chamfer + tab),close,lift 0.8 mm,85.3,0.1,85.3,peak pad overlap
+change 3 (release chamfer + tab),close,lift 0.6 mm,83.6,1.7,81.9,
+change 3 (release chamfer + tab),close,lift 0.4 mm,81.5,27.5,54.0,plug engaging
+change 3 (release chamfer + tab),close,lift 0.2 mm,127.5,102.3,25.2,
+change 3 (release chamfer + tab),close,lift 0.1 mm,155.3,143.6,11.7,
+change 3 (release chamfer + tab),close,lift 0 mm (seated),187.5,187.5,0.0,pads clear; plug preload only
+change 3 (release chamfer + tab),lateral,dx 0.0 mm,187.5,187.5,0.0,flat catch 0.6 mm
+change 3 (release chamfer + tab),lateral,dx 0.2 mm,221.3,221.3,0.0,flat catch 0.4 mm
+change 3 (release chamfer + tab),lateral,dx 0.3 mm,257.2,257.2,0.0,flat catch 0.3 mm (worst case within clearance)
+change 3 (release chamfer + tab),lateral,dx 0.4 mm,301.2,293.7,7.5,skirt contacts flange
+change 3 (release chamfer + tab),lateral,dx 0.5 mm,315.1,299.9,15.2,flat catch 0.1 mm

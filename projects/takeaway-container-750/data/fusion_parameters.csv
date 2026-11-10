@@ -1,0 +1,31 @@
+parameter,value,unit,role,description
+rim_L,190,mm,fixed input,Base flange outside length
+rim_W,130,mm,fixed input,Base flange outside width
+rim_R,12,mm,fixed input,Flange plan corner radius
+flange_ext,2,mm,fixed input,Flange extension beyond wall top
+flange_t,0.65,mm,fixed input,Flange thickness
+base_H,52,mm,fixed input,Base height (bottom to flange top)
+foot_L,164,mm,fixed input,Outside bottom footprint length
+foot_W,104,mm,fixed input,Outside bottom footprint width
+foot_R,4,mm,fixed input,Outside bottom plan corner radius
+wall_t,0.65,mm,fixed input,Wall thickness (horizontal)
+floor_t,0.65,mm,fixed input,Floor thickness
+floor_fillet_out,2.65,mm,fixed input,Outside floor-to-wall radius
+floor_fillet_in,2,mm,fixed input,Inside floor-to-wall radius
+draft_slope,0.21422,ratio,derived,tan(draft) = (rim_L - 2*flange_ext - foot_L)/2/(base_H - flange_t)
+draft_deg,12.09,deg,derived,Wall draft angle per side
+fill_h,39.31,mm,derived (from CAD),750 mL fill line above inside floor
+lid_t,0.5,mm,fixed input,Lid nominal wall
+lid_clear,0.3,mm,fixed input,Radial clearance lid skirt to flange (per side)
+skirt_d,6,mm,fixed input,Lid skirt depth below flange top
+snap_capture,0.8,mm,ADJUSTABLE (was 0.5),Radial capture of catch pad under flange
+pad_h,1.2,mm,tuned (was 0.8),Catch pad height
+pad_lead,0.7,mm,tuned (was 0.4),Catch pad entry lead-in chamfer
+pad_len,30,mm,fixed input,Catch pad length (6 pads)
+pad_off,45,mm,fixed input,Long-side pad centre offset from lid centre
+release_ch,0.2,mm,ADJUSTABLE (new),Release chamfer on pad top inner edge (45 deg)
+seal_depth,3,mm,ADJUSTABLE,Plug seal depth below lid underside
+seal_wall_t,0.5,mm,fixed input,Plug seal wall thickness
+seal_interf,0.1,mm,ADJUSTABLE,Plug radial interference with cavity wall
+rib_h,1,mm,fixed input,Lid stiffening rib height (solid placeholder)
+ring_h,1.5,mm,fixed input,Lid stacking ring height (solid placeholder)
