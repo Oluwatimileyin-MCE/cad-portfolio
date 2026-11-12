@@ -17,6 +17,7 @@ All my CAD designs in one place. Each project has its own folder with the model 
 | Project | What it is | Tools | Status |
 |---|---|---|---|
 | [750 mL Takeaway Container](projects/takeaway-container-750/) ([start here](projects/takeaway-container-750/START-HERE.md)) | Stackable clear takeaway pack with snap-fit lid and integral plug seal. Drawing audit, parametric build and digital fit verification. | Autodesk Fusion | Digitally verified; physical prototype testing pending |
+| [Four-Side Clip-Lock Food Container](projects/clip-lock-container/) ([start here](projects/clip-lock-container/START-HERE.md)) | Gasketed food container with four PP latch clips. Full 3D assembly, 6-sheet drawing set, specification and snap-fit validation. | Autodesk Fusion | Design complete; interference and snap-fit validated |
 
 <!-- Add a new row here for each project. Keep the newest at the top. -->
 

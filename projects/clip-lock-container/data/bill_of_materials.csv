@@ -1,0 +1,6 @@
+item,part,qty,material,mass_each_g,mass_total_g,size_mm
+1,Container Body,1,Polypropylene (PP),128.2,128.2,188 x 138 x 65
+2,Container Lid,1,Polypropylene (PP),59.9,59.9,188 x 138 x 7 (202 x 152 over ears)
+3,Sealing Gasket,1,Silicone rubber,2.3,2.3,185 x 135 x 1.5 (2.0 wide)
+4,Latch Clip,4,Polypropylene (PP),2.6,10.4,40 x 10 x 27
+,Total,7,,,200.8,204 x 154 x 72 assembled

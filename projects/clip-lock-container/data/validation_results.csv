@@ -1,0 +1,12 @@
+check,method,input,result,criterion,status
+Part interference,Fusion interference analysis on all 7 components,Coincident faces not counted,0 interferences,None allowed,Pass
+Mass properties,Fusion physical properties,PP and silicone assigned,200.8 g,Reported,Reported
+Clip strain at closing,Cantilever beam theory,t 2 mm; L 19 mm; deflection 1.0 mm,0.83 %,Below 2.26 % (PP yield strain),Pass
+Clip stress at closing,Cantilever beam theory,E 1340 MPa,11.1 MPa,Below 30.3 MPa (PP yield),Pass
+Clip safety factor on yield,Cantilever beam theory,Deflection 1.0 mm,2.72,Greater than 1.5,Pass
+Maximum elastic clip deflection,Cantilever beam theory,Yield strain 2.26 %,2.72 mm,Greater than design deflection,Pass
+Closing force per clip,Cantilever beam theory,Deflection 1.0 mm,15.6 N,Hand operable,Pass
+Closing force all four clips,Cantilever beam theory,Deflection 1.0 mm,62.5 N,Hand operable,Pass
+Clip tensile capacity,Section area x yield,80 mm2 x 30.3 MPa,2.42 kN per clip (9.7 kN for four),Greater than 200 N hold-down,Pass
+Lip bearing stress,Load / ledge area,50 N on 40 mm2 ledge,1.25 MPa,Below 30.3 MPa,Pass
+Thermal growth 20 to 80 C,Linear expansion (PP 90.5e-6 per C),Body 188 mm; lid 188 mm,Body +1.0 mm; lid +1.1 mm,Same material so fit is maintained,Pass

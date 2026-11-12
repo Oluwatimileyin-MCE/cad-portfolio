@@ -1,0 +1,25 @@
+part,parameter,value,unit,notes
+Body,Overall footprint at rim collar,188 x 138,mm,Corner radius R18
+Body,Wall envelope,180 x 130,mm,Corner radius R14
+Body,Inner cavity,176 x 126,mm,Corner radius R12
+Body,Overall height,65,mm,Floor underside to rim top
+Body,Wall thickness,2.0,mm,
+Body,Floor thickness,2.5,mm,Inner floor at 2.5 mm
+Body,Rim collar thickness,3.0,mm,Collar spans 62 to 65 mm height
+Body,Inner floor fillet,R3,mm,
+Body,Catch pads,4,pcs,One per side; 50 mm wide x 5 mm high; project 3.5 mm from the wall; 50 to 55 mm height
+Body,Brim-full capacity,approx. 1.37,L,Calculated from cavity dimensions
+Lid,Plate size,188 x 138 x 3,mm,Matches the body rim collar; corner radius R18
+Lid,Recessed centre panel,140 x 90 x 1.0,mm,Stiffening and label area
+Lid,Gasket groove depth,1.5,mm,In the underside of the lid plate
+Lid,Catch ears,4,pcs,Two 4 mm prongs per side; project to 202 x 152 mm overall
+Lid,Overall lid height,7,mm,Plate top at 3 mm; ears rise to 7 mm
+Gasket,Cross-section,2.0 x 1.5,mm,Width x thickness
+Gasket,Outer size,185 x 135,mm,Corner radius R16.5
+Gasket,Inner size,181 x 131,mm,Corner radius R14.5
+Clip,Quantity,4,pcs,Centred on each of the four sides
+Clip,Size,40 x 10 x 27,mm,Width x depth x height
+Clip,Strap thickness,2.0,mm,Flexing length approx. 19 mm
+Clip,Lip ledge,1.0,mm,90 degree return face (positive lock)
+Assembly,Overall envelope,204 x 154 x 72,mm,With four clips fitted
+Assembly,Total mass,200.8,g,Body 128.2; lid 59.9; gasket 2.3; clips 4 x 2.6
