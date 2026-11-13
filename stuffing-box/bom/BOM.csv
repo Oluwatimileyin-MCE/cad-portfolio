@@ -1,0 +1,7 @@
+Item,Part,Drawing,Qty,Material,Process,Mass_each_g,Mass_total_g,Notes
+1,Body,SB-002,1,"Gray cast iron, ASTM A48 Class 30",Casting + CNC milling,1454,1454,"120 x 72 x 50 mm; Ø42 bore, Ø33 bore, 2x M12 tapped"
+2,Gland,SB-003,1,Brass,CNC milling / turning,922,922,"Ø42 f8 spigot; Ø24 H9 bore; 2x Ø13 holes"
+3,Bush,SB-004,1,Brass,CNC lathe,78,78,"Ø33 p6 spigot; Ø42 f8 collar; Ø24 H8 bore"
+4,Stud M12 x 90,SB-004,2,Mild steel (AISI 1018 basis),CNC lathe,160,320,"M12 x 1.75-6g both ends; 15 mm and 58 mm thread"
+5,Nut M12,SB-004,2,Mild steel (AISI 1018 basis),CNC lathe,31,63,"AF 19, height 10, M12 x 1.75-6H"
+6,Shaft Ø24 (reference),-,1,Steel,Bought-in,426,426,"Length 120 mm in model; f7 running fit"
