@@ -1,0 +1,18 @@
+parameter,value,unit,description
+OPZ3_wall,3.2,mm,Wall thickness
+OPZ3_floor_t,2.4,mm,Rear wall (floor) thickness
+OPZ3_base_h,30,mm,Base tray height above the rear face
+OPZ3_standoff_h,14.5,mm,Board standoff height
+OPZ3_lid_t,3,mm,Front lid thickness
+OPZ3_groove_d,1.2,mm,Gasket groove depth
+OPZ3_gasket_h,1.6,mm,TPU gasket height
+OPZ3_recess_d,1.5,mm,Clear pane recess depth in the lid
+OPZ3_cbore_d,1.4,mm,Screw counterbore depth
+cavity_size,90 x 58,mm,Internal cavity (X x Y)
+outer_size,96.4 x 64.4,mm,Outer footprint (X x Y); 4 mm corner radius
+lid_screw_centres,82 x 50,mm,Four M3 positions (X x Y)
+board_hole_pattern,43 x 48,mm,Four board standoff positions (X x Y)
+lcd_window,58 x 43.5,mm,Viewing window centred at X=-6
+card_slot,2.2 x 13,mm,Card-reader slot centred at X=35
+louvers,6 x (16 x 2.2),mm,45 degree angled vents in the rear wall
+overall_height,36,mm,Rear foot face to lid outer face (feet 3 + base 30 + lid 3)

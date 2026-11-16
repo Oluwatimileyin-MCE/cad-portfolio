@@ -1,0 +1,180 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420mm" height="297mm" viewBox="0 0 420 297">
+<defs>
+<marker id="a" markerUnits="userSpaceOnUse" markerWidth="3" markerHeight="1.2" refX="3" refY="0.6" orient="auto-start-reverse"><path d="M0,0 L3,0.6 L0,1.2 z" fill="#000"/></marker>
+<pattern id="h1" patternUnits="userSpaceOnUse" width="1.6" height="1.6" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="1.6" stroke="#000" stroke-width="0.18"/></pattern>
+<pattern id="h2" patternUnits="userSpaceOnUse" width="1.2" height="1.2" patternTransform="rotate(-45)"><line x1="0" y1="0" x2="0" y2="1.2" stroke="#000" stroke-width="0.18"/></pattern>
+</defs>
+<rect width="420" height="297" fill="#fff"/>
+<rect x="10" y="10" width="400" height="277" fill="none" stroke="#000" stroke-width="0.7"/>
+<rect x="5" y="5" width="410" height="287" fill="none" stroke="#000" stroke-width="0.15"/>
+<text x="110" y="22" font-size="4.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold">TOP VIEW</text>
+<polygon points="182.3,49.7 182.185,48.529 181.843,47.404 181.289,46.367 180.543,45.457 179.633,44.711 178.596,44.157 177.471,43.815 176.3,43.7 43.7,43.7 42.529,43.815 41.404,44.157 40.367,44.711 39.457,45.457 38.711,46.367 38.157,47.404 37.815,48.529 37.7,49.7 37.7,134.3 37.815,135.471 38.157,136.596 38.711,137.633 39.457,138.543 40.367,139.289 41.404,139.843 42.529,140.185 43.7,140.3 176.3,140.3 177.471,140.185 178.596,139.843 179.633,139.289 180.543,138.543 181.289,137.633 181.843,136.596 182.185,135.471 182.3,134.3" fill="none" stroke="#000" stroke-width="0.35" stroke-linejoin="round"/>
+<polygon points="181.25,49.7 181.155,48.734 180.873,47.806 180.416,46.95 179.8,46.2 179.05,45.584 178.194,45.127 177.266,44.845 176.3,44.75 43.7,44.75 42.734,44.845 41.806,45.127 40.95,45.584 40.2,46.2 39.584,46.95 39.127,47.806 38.845,48.734 38.75,49.7 38.75,134.3 38.845,135.266 39.127,136.194 39.584,137.05 40.2,137.8 40.95,138.416 41.806,138.873 42.734,139.155 43.7,139.25 176.3,139.25 177.266,139.155 178.194,138.873 179.05,138.416 179.8,137.8 180.416,137.05 180.873,136.194 181.155,135.266 181.25,134.3" fill="none" stroke="#000" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="178.55,49.7 178.507,49.261 178.379,48.839 178.171,48.45 177.891,48.109 177.55,47.829 177.161,47.621 176.739,47.493 176.3,47.45 43.7,47.45 43.261,47.493 42.839,47.621 42.45,47.829 42.109,48.109 41.829,48.45 41.621,48.839 41.493,49.261 41.45,49.7 41.45,134.3 41.493,134.739 41.621,135.161 41.829,135.55 42.109,135.891 42.45,136.171 42.839,136.379 43.261,136.507 43.7,136.55 176.3,136.55 176.739,136.507 177.161,136.379 177.55,136.171 177.891,135.891 178.171,135.55 178.379,135.161 178.507,134.739 178.55,134.3" fill="none" stroke="#000" stroke-width="0.2" stroke-linejoin="round"/>
+<polygon points="177.5,49.7 177.477,49.466 177.409,49.241 177.298,49.033 177.149,48.851 176.967,48.702 176.759,48.591 176.534,48.523 176.3,48.5 43.7,48.5 43.466,48.523 43.241,48.591 43.033,48.702 42.851,48.851 42.702,49.033 42.591,49.241 42.523,49.466 42.5,49.7 42.5,134.3 42.523,134.534 42.591,134.759 42.702,134.967 42.851,135.149 43.033,135.298 43.241,135.409 43.466,135.477 43.7,135.5 176.3,135.5 176.534,135.477 176.759,135.409 176.967,135.298 177.149,135.149 177.298,134.967 177.409,134.759 177.477,134.534 177.5,134.3" fill="none" stroke="#000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle cx="171.5" cy="54.5" r="6" fill="none" stroke="#000" stroke-width="0.35"/>
+<circle cx="171.5" cy="54.5" r="3.15" fill="none" stroke="#000" stroke-width="0.35"/>
+<line x1="164" y1="54.5" x2="179" y2="54.5" stroke="#000" stroke-width="0.15" stroke-dasharray="6 1.2 1 1.2"/>
+<line x1="171.5" y1="47" x2="171.5" y2="62" stroke="#000" stroke-width="0.15" stroke-dasharray="6 1.2 1 1.2"/>
+<circle cx="48.5" cy="54.5" r="6" fill="none" stroke="#000" stroke-width="0.35"/>
+<circle cx="48.5" cy="54.5" r="3.15" fill="none" stroke="#000" stroke-width="0.35"/>
+<line x1="41" y1="54.5" x2="56" y2="54.5" stroke="#000" stroke-width="0.15" stroke-dasharray="6 1.2 1 1.2"/>
+<line x1="48.5" y1="47" x2="48.5" y2="62" stroke="#000" stroke-width="0.15" stroke-dasharray="6 1.2 1 1.2"/>
+<circle cx="171.5" cy="129.5" r="6" fill="none" stroke="#000" stroke-width="0.35"/>
+<circle cx="171.5" cy="129.5" r="3.15" fill="none" stroke="#000" stroke-width="0.35"/>
+<line x1="164" y1="129.5" x2="179" y2="129.5" stroke="#000" stroke-width="0.15" stroke-dasharray="6 1.2 1 1.2"/>
+<line x1="171.5" y1="122" x2="171.5" y2="137" stroke="#000" stroke-width="0.15" stroke-dasharray="6 1.2 1 1.2"/>
+<circle cx="48.5" cy="129.5" r="6" fill="none" stroke="#000" stroke-width="0.35"/>
+<circle cx="48.5" cy="129.5" r="3.15" fill="none" stroke="#000" stroke-width="0.35"/>
+<line x1="41" y1="129.5" x2="56" y2="129.5" stroke="#000" stroke-width="0.15" stroke-dasharray="6 1.2 1 1.2"/>
+<line x1="48.5" y1="122" x2="48.5" y2="137" stroke="#000" stroke-width="0.15" stroke-dasharray="6 1.2 1 1.2"/>
+<circle cx="142.25" cy="56" r="4.5" fill="none" stroke="#000" stroke-width="0.35"/>
+<circle cx="142.25" cy="56" r="1.65" fill="none" stroke="#000" stroke-width="0.35"/>
+<line x1="136.25" y1="56" x2="148.25" y2="56" stroke="#000" stroke-width="0.15" stroke-dasharray="6 1.2 1 1.2"/>
+<line x1="142.25" y1="50" x2="142.25" y2="62" stroke="#000" stroke-width="0.15" stroke-dasharray="6 1.2 1 1.2"/>
+<circle cx="77.75" cy="56" r="4.5" fill="none" stroke="#000" stroke-width="0.35"/>
+<circle cx="77.75" cy="56" r="1.65" fill="none" stroke="#000" stroke-width="0.35"/>
+<line x1="71.75" y1="56" x2="83.75" y2="56" stroke="#000" stroke-width="0.15" stroke-dasharray="6 1.2 1 1.2"/>
+<line x1="77.75" y1="50" x2="77.75" y2="62" stroke="#000" stroke-width="0.15" stroke-dasharray="6 1.2 1 1.2"/>
+<circle cx="142.25" cy="128" r="4.5" fill="none" stroke="#000" stroke-width="0.35"/>
+<circle cx="142.25" cy="128" r="1.65" fill="none" stroke="#000" stroke-width="0.35"/>
+<line x1="136.25" y1="128" x2="148.25" y2="128" stroke="#000" stroke-width="0.15" stroke-dasharray="6 1.2 1 1.2"/>
+<line x1="142.25" y1="122" x2="142.25" y2="134" stroke="#000" stroke-width="0.15" stroke-dasharray="6 1.2 1 1.2"/>
+<circle cx="77.75" cy="128" r="4.5" fill="none" stroke="#000" stroke-width="0.35"/>
+<circle cx="77.75" cy="128" r="1.65" fill="none" stroke="#000" stroke-width="0.35"/>
+<line x1="71.75" y1="128" x2="83.75" y2="128" stroke="#000" stroke-width="0.15" stroke-dasharray="6 1.2 1 1.2"/>
+<line x1="77.75" y1="122" x2="77.75" y2="134" stroke="#000" stroke-width="0.15" stroke-dasharray="6 1.2 1 1.2"/>
+<polygon points="98,112.7 122,112.7 122,104.3 98,104.3" fill="none" stroke="#000" stroke-width="0.25" stroke-linejoin="round" stroke-dasharray="2 1"/>
+<polygon points="98,106.1 122,106.1 122,97.7 98,97.7" fill="none" stroke="#000" stroke-width="0.25" stroke-linejoin="round" stroke-dasharray="2 1"/>
+<polygon points="98,99.5 122,99.5 122,91.1 98,91.1" fill="none" stroke="#000" stroke-width="0.25" stroke-linejoin="round" stroke-dasharray="2 1"/>
+<polygon points="98,92.9 122,92.9 122,84.5 98,84.5" fill="none" stroke="#000" stroke-width="0.25" stroke-linejoin="round" stroke-dasharray="2 1"/>
+<polygon points="98,86.3 122,86.3 122,77.9 98,77.9" fill="none" stroke="#000" stroke-width="0.25" stroke-linejoin="round" stroke-dasharray="2 1"/>
+<polygon points="98,79.7 122,79.7 122,71.3 98,71.3" fill="none" stroke="#000" stroke-width="0.25" stroke-linejoin="round" stroke-dasharray="2 1"/>
+<circle cx="170" cy="56" r="7.5" fill="none" stroke="#000" stroke-width="0.25" stroke-dasharray="2 1"/>
+<circle cx="50" cy="56" r="7.5" fill="none" stroke="#000" stroke-width="0.25" stroke-dasharray="2 1"/>
+<circle cx="170" cy="128" r="7.5" fill="none" stroke="#000" stroke-width="0.25" stroke-dasharray="2 1"/>
+<circle cx="50" cy="128" r="7.5" fill="none" stroke="#000" stroke-width="0.25" stroke-dasharray="2 1"/>
+<line x1="37.7" y1="141.3" x2="37.7" y2="150.8" stroke="#000" stroke-width="0.15"/>
+<line x1="182.3" y1="141.3" x2="182.3" y2="150.8" stroke="#000" stroke-width="0.15"/>
+<line x1="37.7" y1="149.3" x2="182.3" y2="149.3" stroke="#000" stroke-width="0.2" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="110" y="148.3" font-size="3.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">96.4</text>
+<line x1="42.5" y1="141.3" x2="42.5" y2="158.8" stroke="#000" stroke-width="0.15"/>
+<line x1="177.5" y1="141.3" x2="177.5" y2="158.8" stroke="#000" stroke-width="0.15"/>
+<line x1="42.5" y1="157.3" x2="177.5" y2="157.3" stroke="#000" stroke-width="0.2" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="110" y="156.3" font-size="3.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">90 (cavity)</text>
+<line x1="36.7" y1="43.7" x2="27.2" y2="43.7" stroke="#000" stroke-width="0.15"/>
+<line x1="36.7" y1="140.3" x2="27.2" y2="140.3" stroke="#000" stroke-width="0.15"/>
+<line x1="28.7" y1="43.7" x2="28.7" y2="140.3" stroke="#000" stroke-width="0.2" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="27.7" y="92" font-size="3.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" transform="rotate(-90 27.7 92)">64.4</text>
+<line x1="36.7" y1="48.5" x2="19.2" y2="48.5" stroke="#000" stroke-width="0.15"/>
+<line x1="36.7" y1="135.5" x2="19.2" y2="135.5" stroke="#000" stroke-width="0.15"/>
+<line x1="20.7" y1="48.5" x2="20.7" y2="135.5" stroke="#000" stroke-width="0.2" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="19.7" y="92" font-size="3.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" transform="rotate(-90 19.7 92)">58 (cavity)</text>
+<line x1="48.5" y1="53.5" x2="48.5" y2="41" stroke="#000" stroke-width="0.15"/>
+<line x1="171.5" y1="53.5" x2="171.5" y2="41" stroke="#000" stroke-width="0.15"/>
+<line x1="48.5" y1="42.5" x2="171.5" y2="42.5" stroke="#000" stroke-width="0.2" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="110" y="41.5" font-size="3.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">82 (M3 boss centres)</text>
+<line x1="77.75" y1="129" x2="77.75" y2="166.8" stroke="#000" stroke-width="0.15"/>
+<line x1="142.25" y1="129" x2="142.25" y2="166.8" stroke="#000" stroke-width="0.15"/>
+<line x1="77.75" y1="165.3" x2="142.25" y2="165.3" stroke="#000" stroke-width="0.2" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="110" y="164.3" font-size="3.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">43 (board holes)</text>
+<text x="110" y="188" font-size="4.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold">FRONT VIEW (-Y WALL)</text>
+<polygon points="37.7,245 182.3,245 182.3,200 37.7,200" fill="none" stroke="#000" stroke-width="0.35" stroke-linejoin="round"/>
+<polygon points="42.5,249.5 57.5,249.5 57.5,245 42.5,245" fill="none" stroke="#000" stroke-width="0.35" stroke-linejoin="round"/>
+<polygon points="162.5,249.5 177.5,249.5 177.5,245 162.5,245" fill="none" stroke="#000" stroke-width="0.35" stroke-linejoin="round"/>
+<polygon points="105.125,221.075 105.082,220.636 104.954,220.214 104.746,219.825 104.466,219.484 104.125,219.204 103.736,218.996 103.314,218.868 102.875,218.825 81.125,218.825 80.686,218.868 80.264,218.996 79.875,219.204 79.534,219.484 79.254,219.825 79.046,220.214 78.918,220.636 78.875,221.075 78.875,238.325 78.918,238.764 79.046,239.186 79.254,239.575 79.534,239.916 79.875,240.196 80.264,240.404 80.686,240.532 81.125,240.575 102.875,240.575 103.314,240.532 103.736,240.404 104.125,240.196 104.466,239.916 104.746,239.575 104.954,239.186 105.082,238.764 105.125,238.325" fill="none" stroke="#000" stroke-width="0.35" stroke-linejoin="round"/>
+<polygon points="140.75,220.025 140.707,219.586 140.579,219.164 140.371,218.775 140.091,218.434 139.75,218.154 139.361,217.946 138.939,217.818 138.5,217.775 120.5,217.775 120.061,217.818 119.639,217.946 119.25,218.154 118.909,218.434 118.629,218.775 118.421,219.164 118.293,219.586 118.25,220.025 118.25,229.025 118.293,229.464 118.421,229.886 118.629,230.275 118.909,230.616 119.25,230.896 119.639,231.104 120.061,231.232 120.5,231.275 138.5,231.275 138.939,231.232 139.361,231.104 139.75,230.896 140.091,230.616 140.371,230.275 140.579,229.886 140.707,229.464 140.75,229.025" fill="none" stroke="#000" stroke-width="0.35" stroke-linejoin="round"/>
+<line x1="36.7" y1="249.5" x2="27.2" y2="249.5" stroke="#000" stroke-width="0.15"/>
+<line x1="36.7" y1="200" x2="27.2" y2="200" stroke="#000" stroke-width="0.15"/>
+<line x1="28.7" y1="249.5" x2="28.7" y2="200" stroke="#000" stroke-width="0.2" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="27.7" y="224.75" font-size="3.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" transform="rotate(-90 27.7 224.75)">33</text>
+<text x="320" y="24" font-size="4.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold">BACK VIEW (+Y WALL)</text>
+<polygon points="392.3,98 247.7,98 247.7,53 392.3,53" fill="none" stroke="#000" stroke-width="0.35" stroke-linejoin="round"/>
+<polygon points="387.5,102.5 372.5,102.5 372.5,98 387.5,98" fill="none" stroke="#000" stroke-width="0.35" stroke-linejoin="round"/>
+<polygon points="267.5,102.5 252.5,102.5 252.5,98 267.5,98" fill="none" stroke="#000" stroke-width="0.35" stroke-linejoin="round"/>
+<polygon points="328.625,72.95 328.683,72.365 328.853,71.802 329.131,71.283 329.504,70.829 329.958,70.456 330.477,70.178 331.04,70.008 331.625,69.95 344.375,69.95 344.96,70.008 345.523,70.178 346.042,70.456 346.496,70.829 346.869,71.283 347.147,71.802 347.317,72.365 347.375,72.95 347.375,77.45 347.317,78.035 347.147,78.598 346.869,79.117 346.496,79.571 346.042,79.944 345.523,80.222 344.96,80.392 344.375,80.45 331.625,80.45 331.04,80.392 330.477,80.222 329.958,79.944 329.504,79.571 329.131,79.117 328.853,78.598 328.683,78.035 328.625,77.45" fill="none" stroke="#000" stroke-width="0.35" stroke-linejoin="round"/>
+<polygon points="297.5,72.8 297.558,72.215 297.728,71.652 298.006,71.133 298.379,70.679 298.833,70.306 299.352,70.028 299.915,69.858 300.5,69.8 315.5,69.8 316.085,69.858 316.648,70.028 317.167,70.306 317.621,70.679 317.994,71.133 318.272,71.652 318.442,72.215 318.5,72.8 318.5,77.3 318.442,77.885 318.272,78.448 317.994,78.967 317.621,79.421 317.167,79.794 316.648,80.072 316.085,80.242 315.5,80.3 300.5,80.3 299.915,80.242 299.352,80.072 298.833,79.794 298.379,79.421 298.006,78.967 297.728,78.448 297.558,77.885 297.5,77.3" fill="none" stroke="#000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle cx="365" cy="77" r="9" fill="none" stroke="#000" stroke-width="0.35"/>
+<circle cx="275" cy="77" r="1.875" fill="none" stroke="#000" stroke-width="0.35"/>
+<line x1="365" y1="68" x2="368" y2="36" stroke="#000" stroke-width="0.2" marker-start="url(#a)"/>
+<text x="369" y="37" font-size="3.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif">D12 switch</text>
+<line x1="275" y1="75.125" x2="272" y2="36" stroke="#000" stroke-width="0.2" marker-start="url(#a)"/>
+<text x="271" y="37" font-size="3.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif">D2.5 reset</text>
+<text x="240" y="130" font-size="3.4" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-weight="bold">OPENINGS</text>
+<text x="241.5" y="137.216" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-weight="bold">Opening</text>
+<text x="266.5" y="137.216" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-weight="bold">Wall</text>
+<text x="301.5" y="137.216" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-weight="bold">Size (W x H)</text>
+<text x="341.5" y="137.216" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-weight="bold">Centre X, Z</text>
+<text x="379.5" y="137.216" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-weight="bold">Corner R</text>
+<line x1="240" y1="133" x2="396" y2="133" stroke="#000" stroke-width="0.25"/>
+<text x="241.5" y="143.416" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">USB-C power</text>
+<text x="266.5" y="143.416" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">+Y</text>
+<text x="301.5" y="143.416" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">12.5 x 7.0</text>
+<text x="341.5" y="143.416" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">-12.0, 15.2</text>
+<text x="379.5" y="143.416" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">2.0</text>
+<line x1="240" y1="139.2" x2="396" y2="139.2" stroke="#000" stroke-width="0.25"/>
+<text x="241.5" y="149.616" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">HDMI</text>
+<text x="266.5" y="149.616" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">+Y</text>
+<text x="301.5" y="149.616" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">14.0 x 7.0</text>
+<text x="341.5" y="149.616" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">8.0, 15.3</text>
+<text x="379.5" y="149.616" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">2.0</text>
+<line x1="240" y1="145.4" x2="396" y2="145.4" stroke="#000" stroke-width="0.25"/>
+<text x="241.5" y="155.816" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">RJ45</text>
+<text x="266.5" y="155.816" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">-Y</text>
+<text x="301.5" y="155.816" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">17.5 x 14.5</text>
+<text x="341.5" y="155.816" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">-12.0, 10.2</text>
+<text x="379.5" y="155.816" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">1.5</text>
+<line x1="240" y1="151.6" x2="396" y2="151.6" stroke="#000" stroke-width="0.25"/>
+<text x="241.5" y="162.016" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">USB-A</text>
+<text x="266.5" y="162.016" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">-Y</text>
+<text x="301.5" y="162.016" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">15.0 x 9.0</text>
+<text x="341.5" y="162.016" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">13.0, 13.65</text>
+<text x="379.5" y="162.016" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">1.5</text>
+<line x1="240" y1="157.8" x2="396" y2="157.8" stroke="#000" stroke-width="0.25"/>
+<text x="241.5" y="168.216" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Switch</text>
+<text x="266.5" y="168.216" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">+Y</text>
+<text x="301.5" y="168.216" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">D12</text>
+<text x="341.5" y="168.216" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">-30.0, 14.0</text>
+<text x="379.5" y="168.216" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">-</text>
+<line x1="240" y1="164" x2="396" y2="164" stroke="#000" stroke-width="0.25"/>
+<text x="241.5" y="174.416" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Reset pin</text>
+<text x="266.5" y="174.416" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">+Y</text>
+<text x="301.5" y="174.416" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">D2.5</text>
+<text x="341.5" y="174.416" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">30.0, 14.0</text>
+<text x="379.5" y="174.416" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">-</text>
+<line x1="240" y1="170.2" x2="396" y2="170.2" stroke="#000" stroke-width="0.25"/>
+<line x1="240" y1="176.4" x2="396" y2="176.4" stroke="#000" stroke-width="0.25"/>
+<line x1="240" y1="133" x2="240" y2="176.4" stroke="#000" stroke-width="0.25"/>
+<line x1="265" y1="133" x2="265" y2="176.4" stroke="#000" stroke-width="0.25"/>
+<line x1="300" y1="133" x2="300" y2="176.4" stroke="#000" stroke-width="0.25"/>
+<line x1="340" y1="133" x2="340" y2="176.4" stroke="#000" stroke-width="0.25"/>
+<line x1="378" y1="133" x2="378" y2="176.4" stroke="#000" stroke-width="0.25"/>
+<line x1="396" y1="133" x2="396" y2="176.4" stroke="#000" stroke-width="0.25"/>
+<text x="240" y="183" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Gasket groove in rim: 1.8 wide x 1.2 deep.</text>
+<text x="240" y="188.2" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">4x corner boss D8 with M3 insert hole D4.2 x 8 deep.</text>
+<text x="240" y="193.4" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">4x board standoff D6, 14.5 high, pilot hole D2.2 x 6 deep.</text>
+<text x="240" y="198.6" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">6x angled louver, 16 long, 45 deg, pitch 4.4 (see sheet 4).</text>
+<text x="240" y="203.8" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Rear feet: 4x D10 x 3 high at (+/-40, +/-24).</text>
+<text x="240" y="209" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Floor 2.4, walls 3.2, height 30 (33 with feet).</text>
+<text x="240" y="214.2" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Print: feet down, open side up, no supports.</text>
+<rect x="235" y="245" width="175" height="42" fill="#fff" stroke="#000" stroke-width="0.6"/>
+<line x1="235" y1="261" x2="410" y2="261" stroke="#000" stroke-width="0.3"/>
+<line x1="235" y1="274" x2="410" y2="274" stroke="#000" stroke-width="0.3"/>
+<line x1="323" y1="261" x2="323" y2="287" stroke="#000" stroke-width="0.3"/>
+<line x1="365" y1="274" x2="365" y2="287" stroke="#000" stroke-width="0.3"/>
+<text x="238" y="252" font-size="5.2" font-family="Arial, Helvetica, sans-serif" text-anchor="start" font-weight="bold">BASE TRAY</text>
+<text x="238" y="258" font-size="3.0" font-family="Arial, Helvetica, sans-serif" text-anchor="start">Orange Pi Zero 3 Enclosure</text>
+<text x="238" y="267" font-size="2.0" font-family="Arial, Helvetica, sans-serif" text-anchor="start">Drawing no.</text>
+<text x="238" y="272" font-size="3.4" font-family="Arial, Helvetica, sans-serif" text-anchor="start" font-weight="bold">OPZ3-ENC-002</text>
+<text x="326" y="267" font-size="2.0" font-family="Arial, Helvetica, sans-serif" text-anchor="start">Material</text>
+<text x="326" y="272" font-size="2.8" font-family="Arial, Helvetica, sans-serif" text-anchor="start" font-weight="bold">ASA or PETG (TPU 95A gasket)</text>
+<text x="238" y="278" font-size="2.0" font-family="Arial, Helvetica, sans-serif" text-anchor="start">Scale</text>
+<text x="238" y="283" font-size="2.8" font-family="Arial, Helvetica, sans-serif" text-anchor="start" font-weight="bold">1:1.5</text>
+<text x="280" y="278" font-size="2.0" font-family="Arial, Helvetica, sans-serif" text-anchor="start">Units / projection</text>
+<text x="280" y="283" font-size="2.8" font-family="Arial, Helvetica, sans-serif" text-anchor="start" font-weight="bold">mm / third angle</text>
+<text x="326" y="278" font-size="2.8" font-family="Arial, Helvetica, sans-serif" text-anchor="start" font-weight="bold">Drawn: O. Oluleye   Rev A</text>
+<text x="326" y="283" font-size="2.4" font-family="Arial, Helvetica, sans-serif" text-anchor="start">Date 2026-11-16</text>
+<text x="368" y="278" font-size="2.0" font-family="Arial, Helvetica, sans-serif" text-anchor="start">Sheet</text>
+<text x="368" y="283" font-size="3.2" font-family="Arial, Helvetica, sans-serif" text-anchor="start" font-weight="bold">2 of 4</text>
+<text x="15" y="283" font-size="2.4" font-family="Arial, Helvetica, sans-serif" text-anchor="start">General tolerance +/-0.2 mm (FDM). Dimensions in mm.</text>
+</svg>

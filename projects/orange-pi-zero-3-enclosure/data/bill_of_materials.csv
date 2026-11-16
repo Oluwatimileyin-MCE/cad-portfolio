@@ -1,0 +1,9 @@
+item,part,qty,material,solid_mass_each_g,drawing
+1,Base tray,1,ASA or PETG,49.2 (ASA) / 58.5 (PETG),OPZ3-ENC-002
+2,Front lid,1,ASA or PETG,10.8 (ASA) / 12.8 (PETG),OPZ3-ENC-003
+3,Gasket,1,TPU 95A,0.9,OPZ3-ENC-004
+4,M3 heat-set insert 5 mm,4,Brass,,standard
+5,M3 x 8 pan-head screw,4,Steel A2,,standard
+6,M2.5 x 6 self-tapping screw,4,Steel A2,,standard
+7,Panel switch (12 mm hole),1,,,standard
+8,Clear pane 1 mm (62 x 47.5),1,Acrylic or PETG sheet,,standard

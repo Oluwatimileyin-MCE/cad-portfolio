@@ -16,6 +16,7 @@ All my CAD designs in one place. Each project has its own folder with the model 
 
 | Project | What it is | Tools | Status |
 |---|---|---|---|
+| [Orange Pi Zero 3 Enclosure](projects/orange-pi-zero-3-enclosure/) ([start here](projects/orange-pi-zero-3-enclosure/START-HERE.md)) | Gasketed, print-ready enclosure for an Orange Pi Zero 3 with LCD window, card reader, switch, reset pin and angled vents. 3D assembly, 4-sheet drawing set, specification, assembly guide and STL print files. | Autodesk Fusion | Design complete; interference-checked, print files released |
 | [750 mL Takeaway Container](projects/takeaway-container-750/) ([start here](projects/takeaway-container-750/START-HERE.md)) | Stackable clear takeaway pack with snap-fit lid and integral plug seal. Drawing audit, parametric build and digital fit verification. | Autodesk Fusion | Digitally verified; physical prototype testing pending |
 | [Four-Side Clip-Lock Food Container](projects/clip-lock-container/) ([start here](projects/clip-lock-container/START-HERE.md)) | Gasketed food container with four PP latch clips. Full 3D assembly, 6-sheet drawing set, specification and snap-fit validation. | Autodesk Fusion | Design complete; interference and snap-fit validated |
 
@@ -38,6 +39,7 @@ cad-portfolio/
 │       ├── README.md          # case study: brief, process, verification, status
 │       ├── CHANGELOG.md       # revision history
 │       ├── cad/               # .f3d / .step model exports
+│       ├── print/             # STL print files (where applicable)
 │       ├── data/              # parameter tables, test results (CSV)
 │       └── docs/              # drawings, images, specs
 ├── templates/

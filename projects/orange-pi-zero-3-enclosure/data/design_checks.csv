@@ -1,0 +1,14 @@
+check,method,result
+Interference base vs lid,Fusion interference analysis,0 cm3
+Interference base vs gasket,Fusion interference analysis,0 cm3
+Interference lid vs gasket,Fusion interference analysis,0.195 cm3 = designed 0.4 mm gasket compression (25 %)
+Board fit in cavity,Dimensional (board outline from supplied STEP),Board 50 x 55 mm in 90 x 58 mm cavity: 1.5 mm clearance each end
+RJ45 vertical clearance,Dimensional,14.5 mm standoff height for a 13.5 mm connector: 1.0 mm clearance
+Space above board underside plane,Dimensional,13.1 mm available to the lid for board LCD module and card reader
+Heat sink envelope,Dimensional,Up to 14.5 mm tall under the board with 6 angled vent slots below it
+Gasket compression,Dimensional,0.4 mm on 1.6 mm = 25 %
+Vent opening,Dimensional,6 slots 16 x 2.2 mm = 211 mm2 in the rear wall plane
+Solid-model mass (ASA / TPU),Fusion physical properties,60.9 g (49.2 + 10.8 + 0.9)
+Solid-model mass (PETG / TPU),Fusion physical properties,72.2 g (58.5 + 12.8 + 0.9)
+Overall envelope,Fusion bounding box,96.4 x 64.4 x 36 mm (feet to lid face)
+Largest unsupported bridge,Dimensional,17.5 mm (RJ45 opening) - prints without supports

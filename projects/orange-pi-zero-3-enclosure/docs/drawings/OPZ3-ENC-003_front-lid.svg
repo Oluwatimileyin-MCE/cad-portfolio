@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420mm" height="297mm" viewBox="0 0 420 297">
+<defs>
+<marker id="a" markerUnits="userSpaceOnUse" markerWidth="3" markerHeight="1.2" refX="3" refY="0.6" orient="auto-start-reverse"><path d="M0,0 L3,0.6 L0,1.2 z" fill="#000"/></marker>
+<pattern id="h1" patternUnits="userSpaceOnUse" width="1.6" height="1.6" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="1.6" stroke="#000" stroke-width="0.18"/></pattern>
+<pattern id="h2" patternUnits="userSpaceOnUse" width="1.2" height="1.2" patternTransform="rotate(-45)"><line x1="0" y1="0" x2="0" y2="1.2" stroke="#000" stroke-width="0.18"/></pattern>
+</defs>
+<rect width="420" height="297" fill="#fff"/>
+<rect x="10" y="10" width="400" height="277" fill="none" stroke="#000" stroke-width="0.7"/>
+<rect x="5" y="5" width="410" height="287" fill="none" stroke="#000" stroke-width="0.15"/>
+<text x="110" y="30" font-size="4.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold">OUTER FACE</text>
+<polygon points="182.3,52.7 182.185,51.529 181.843,50.404 181.289,49.367 180.543,48.457 179.633,47.711 178.596,47.157 177.471,46.815 176.3,46.7 43.7,46.7 42.529,46.815 41.404,47.157 40.367,47.711 39.457,48.457 38.711,49.367 38.157,50.404 37.815,51.529 37.7,52.7 37.7,137.3 37.815,138.471 38.157,139.596 38.711,140.633 39.457,141.543 40.367,142.289 41.404,142.843 42.529,143.185 43.7,143.3 176.3,143.3 177.471,143.185 178.596,142.843 179.633,142.289 180.543,141.543 181.289,140.633 181.843,139.596 182.185,138.471 182.3,137.3" fill="none" stroke="#000" stroke-width="0.35" stroke-linejoin="round"/>
+<polygon points="54.5,130.625 147.5,130.625 147.5,59.375 54.5,59.375" fill="none" stroke="#000" stroke-width="0.25" stroke-linejoin="round" stroke-dasharray="2 1"/>
+<polygon points="57.5,127.625 144.5,127.625 144.5,62.375 57.5,62.375" fill="none" stroke="#000" stroke-width="0.4" stroke-linejoin="round"/>
+<polygon points="160.85,104.75 164.15,104.75 164.15,85.25 160.85,85.25" fill="none" stroke="#000" stroke-width="0.4" stroke-linejoin="round"/>
+<circle cx="171.5" cy="57.5" r="4.8" fill="none" stroke="#000" stroke-width="0.35"/>
+<circle cx="171.5" cy="57.5" r="2.55" fill="none" stroke="#000" stroke-width="0.35"/>
+<line x1="164.75" y1="57.5" x2="178.25" y2="57.5" stroke="#000" stroke-width="0.15" stroke-dasharray="6 1.2 1 1.2"/>
+<line x1="171.5" y1="50.75" x2="171.5" y2="64.25" stroke="#000" stroke-width="0.15" stroke-dasharray="6 1.2 1 1.2"/>
+<circle cx="48.5" cy="57.5" r="4.8" fill="none" stroke="#000" stroke-width="0.35"/>
+<circle cx="48.5" cy="57.5" r="2.55" fill="none" stroke="#000" stroke-width="0.35"/>
+<line x1="41.75" y1="57.5" x2="55.25" y2="57.5" stroke="#000" stroke-width="0.15" stroke-dasharray="6 1.2 1 1.2"/>
+<line x1="48.5" y1="50.75" x2="48.5" y2="64.25" stroke="#000" stroke-width="0.15" stroke-dasharray="6 1.2 1 1.2"/>
+<circle cx="171.5" cy="132.5" r="4.8" fill="none" stroke="#000" stroke-width="0.35"/>
+<circle cx="171.5" cy="132.5" r="2.55" fill="none" stroke="#000" stroke-width="0.35"/>
+<line x1="164.75" y1="132.5" x2="178.25" y2="132.5" stroke="#000" stroke-width="0.15" stroke-dasharray="6 1.2 1 1.2"/>
+<line x1="171.5" y1="125.75" x2="171.5" y2="139.25" stroke="#000" stroke-width="0.15" stroke-dasharray="6 1.2 1 1.2"/>
+<circle cx="48.5" cy="132.5" r="4.8" fill="none" stroke="#000" stroke-width="0.35"/>
+<circle cx="48.5" cy="132.5" r="2.55" fill="none" stroke="#000" stroke-width="0.35"/>
+<line x1="41.75" y1="132.5" x2="55.25" y2="132.5" stroke="#000" stroke-width="0.15" stroke-dasharray="6 1.2 1 1.2"/>
+<line x1="48.5" y1="125.75" x2="48.5" y2="139.25" stroke="#000" stroke-width="0.15" stroke-dasharray="6 1.2 1 1.2"/>
+<line x1="37.7" y1="144.3" x2="37.7" y2="153.8" stroke="#000" stroke-width="0.15"/>
+<line x1="182.3" y1="144.3" x2="182.3" y2="153.8" stroke="#000" stroke-width="0.15"/>
+<line x1="37.7" y1="152.3" x2="182.3" y2="152.3" stroke="#000" stroke-width="0.2" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="110" y="151.3" font-size="3.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">96.4</text>
+<line x1="36.7" y1="46.7" x2="27.2" y2="46.7" stroke="#000" stroke-width="0.15"/>
+<line x1="36.7" y1="143.3" x2="27.2" y2="143.3" stroke="#000" stroke-width="0.15"/>
+<line x1="28.7" y1="46.7" x2="28.7" y2="143.3" stroke="#000" stroke-width="0.2" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="27.7" y="95" font-size="3.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" transform="rotate(-90 27.7 95)">64.4</text>
+<line x1="57.5" y1="61.375" x2="57.5" y2="51.875" stroke="#000" stroke-width="0.15"/>
+<line x1="144.5" y1="61.375" x2="144.5" y2="51.875" stroke="#000" stroke-width="0.15"/>
+<line x1="57.5" y1="53.375" x2="144.5" y2="53.375" stroke="#000" stroke-width="0.2" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="101" y="52.375" font-size="3.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">58 (window)</text>
+<line x1="145.5" y1="62.375" x2="156" y2="62.375" stroke="#000" stroke-width="0.15"/>
+<line x1="145.5" y1="127.625" x2="156" y2="127.625" stroke="#000" stroke-width="0.15"/>
+<line x1="154.5" y1="62.375" x2="154.5" y2="127.625" stroke="#000" stroke-width="0.2" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="153.5" y="95" font-size="3.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" transform="rotate(-90 153.5 95)">43.5</text>
+<line x1="160.85" y1="84.25" x2="160.85" y2="66.75" stroke="#000" stroke-width="0.15"/>
+<line x1="164.15" y1="84.25" x2="164.15" y2="66.75" stroke="#000" stroke-width="0.15"/>
+<line x1="160.85" y1="68.25" x2="164.15" y2="68.25" stroke="#000" stroke-width="0.2" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="162.5" y="67.25" font-size="3.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">2.2</text>
+<line x1="165.15" y1="85.25" x2="177.65" y2="85.25" stroke="#000" stroke-width="0.15"/>
+<line x1="165.15" y1="104.75" x2="177.65" y2="104.75" stroke="#000" stroke-width="0.15"/>
+<line x1="176.15" y1="85.25" x2="176.15" y2="104.75" stroke="#000" stroke-width="0.2" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="175.15" y="95" font-size="3.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" transform="rotate(-90 175.15 95)">13</text>
+<line x1="48.5" y1="133.5" x2="48.5" y2="161.8" stroke="#000" stroke-width="0.15"/>
+<line x1="171.5" y1="133.5" x2="171.5" y2="161.8" stroke="#000" stroke-width="0.15"/>
+<line x1="48.5" y1="160.3" x2="171.5" y2="160.3" stroke="#000" stroke-width="0.2" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="110" y="159.3" font-size="3.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">82 (screw centres)</text>
+<line x1="171.5" y1="57.5" x2="180.5" y2="43.5" stroke="#000" stroke-width="0.2" marker-start="url(#a)"/>
+<text x="179.5" y="44.5" font-size="3.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif">4x D3.4 through, D6.4 x 1.4 cbore</text>
+<text x="110" y="188" font-size="4.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold">SECTION C-C (x = -6)</text>
+<text x="110" y="192.2" font-size="2.8" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">plate 3.0, underside pane recess 1.5 deep</text>
+<polygon points="62.5,222 45.6,222 45.6,216 66.5,216 66.5,219 62.5,219" fill="url(#h1)" stroke="#000" stroke-width="0.5" stroke-linejoin="round"/>
+<polygon points="157.5,222 174.4,222 174.4,216 153.5,216 153.5,219 157.5,219" fill="url(#h1)" stroke="#000" stroke-width="0.5" stroke-linejoin="round"/>
+<line x1="44.6" y1="216" x2="36.1" y2="216" stroke="#000" stroke-width="0.15"/>
+<line x1="44.6" y1="222" x2="36.1" y2="222" stroke="#000" stroke-width="0.15"/>
+<line x1="37.6" y1="216" x2="37.6" y2="222" stroke="#000" stroke-width="0.2" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="36.6" y="219" font-size="3.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" transform="rotate(-90 36.6 219)">3.0</text>
+<line x1="153.5" y1="223" x2="153.5" y2="231.5" stroke="#000" stroke-width="0.15"/>
+<line x1="157.5" y1="223" x2="157.5" y2="231.5" stroke="#000" stroke-width="0.15"/>
+<line x1="153.5" y1="230" x2="157.5" y2="230" stroke="#000" stroke-width="0.2" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="155.5" y="229" font-size="3.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">2.0</text>
+<text x="240" y="35" font-size="3.4" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-weight="bold">FEATURES</text>
+<text x="241.5" y="42.352" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-weight="bold">Feature</text>
+<text x="289.5" y="42.352" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-weight="bold">Size</text>
+<text x="351.5" y="42.352" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-weight="bold">Position (X, Y)</text>
+<line x1="240" y1="38" x2="405" y2="38" stroke="#000" stroke-width="0.25"/>
+<text x="241.5" y="48.752" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">LCD window</text>
+<text x="289.5" y="48.752" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">58 x 43.5 through</text>
+<text x="351.5" y="48.752" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">-6.0, 0 (centre)</text>
+<line x1="240" y1="44.4" x2="405" y2="44.4" stroke="#000" stroke-width="0.25"/>
+<text x="241.5" y="55.152" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Pane recess (underside)</text>
+<text x="289.5" y="55.152" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">62 x 47.5 x 1.5</text>
+<text x="351.5" y="55.152" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">-6.0, 0 (centre)</text>
+<line x1="240" y1="50.8" x2="405" y2="50.8" stroke="#000" stroke-width="0.25"/>
+<text x="241.5" y="61.552" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Card-reader slot</text>
+<text x="289.5" y="61.552" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">2.2 x 13 through</text>
+<text x="351.5" y="61.552" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">35.0, 0 (centre)</text>
+<line x1="240" y1="57.2" x2="405" y2="57.2" stroke="#000" stroke-width="0.25"/>
+<text x="241.5" y="67.952" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Screw holes</text>
+<text x="289.5" y="67.952" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">4x D3.4 through</text>
+<text x="351.5" y="67.952" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">+/-41, +/-25</text>
+<line x1="240" y1="63.6" x2="405" y2="63.6" stroke="#000" stroke-width="0.25"/>
+<text x="241.5" y="74.352" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Counterbores</text>
+<text x="289.5" y="74.352" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">4x D6.4 x 1.4 deep</text>
+<text x="351.5" y="74.352" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">+/-41, +/-25</text>
+<line x1="240" y1="70" x2="405" y2="70" stroke="#000" stroke-width="0.25"/>
+<text x="241.5" y="80.752" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Plate</text>
+<text x="289.5" y="80.752" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">96.4 x 64.4 x 3.0</text>
+<text x="351.5" y="80.752" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">4 mm corner radius</text>
+<line x1="240" y1="76.4" x2="405" y2="76.4" stroke="#000" stroke-width="0.25"/>
+<line x1="240" y1="82.8" x2="405" y2="82.8" stroke="#000" stroke-width="0.25"/>
+<line x1="240" y1="38" x2="240" y2="82.8" stroke="#000" stroke-width="0.25"/>
+<line x1="288" y1="38" x2="288" y2="82.8" stroke="#000" stroke-width="0.25"/>
+<line x1="350" y1="38" x2="350" y2="82.8" stroke="#000" stroke-width="0.25"/>
+<line x1="405" y1="38" x2="405" y2="82.8" stroke="#000" stroke-width="0.25"/>
+<text x="240" y="90" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Print: outer face on the bed, no supports.</text>
+<text x="240" y="95" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Pane: 1 mm clear acrylic or PETG sheet, 62 x 47.5.</text>
+<text x="240" y="100" font-size="2.6" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Seals against the TPU gasket (25 % compression).</text>
+<rect x="235" y="245" width="175" height="42" fill="#fff" stroke="#000" stroke-width="0.6"/>
+<line x1="235" y1="261" x2="410" y2="261" stroke="#000" stroke-width="0.3"/>
+<line x1="235" y1="274" x2="410" y2="274" stroke="#000" stroke-width="0.3"/>
+<line x1="323" y1="261" x2="323" y2="287" stroke="#000" stroke-width="0.3"/>
+<line x1="365" y1="274" x2="365" y2="287" stroke="#000" stroke-width="0.3"/>
+<text x="238" y="252" font-size="5.2" font-family="Arial, Helvetica, sans-serif" text-anchor="start" font-weight="bold">FRONT LID</text>
+<text x="238" y="258" font-size="3.0" font-family="Arial, Helvetica, sans-serif" text-anchor="start">Orange Pi Zero 3 Enclosure</text>
+<text x="238" y="267" font-size="2.0" font-family="Arial, Helvetica, sans-serif" text-anchor="start">Drawing no.</text>
+<text x="238" y="272" font-size="3.4" font-family="Arial, Helvetica, sans-serif" text-anchor="start" font-weight="bold">OPZ3-ENC-003</text>
+<text x="326" y="267" font-size="2.0" font-family="Arial, Helvetica, sans-serif" text-anchor="start">Material</text>
+<text x="326" y="272" font-size="2.8" font-family="Arial, Helvetica, sans-serif" text-anchor="start" font-weight="bold">ASA or PETG (TPU 95A gasket)</text>
+<text x="238" y="278" font-size="2.0" font-family="Arial, Helvetica, sans-serif" text-anchor="start">Scale</text>
+<text x="238" y="283" font-size="2.8" font-family="Arial, Helvetica, sans-serif" text-anchor="start" font-weight="bold">1:1.5 / 1:2</text>
+<text x="280" y="278" font-size="2.0" font-family="Arial, Helvetica, sans-serif" text-anchor="start">Units / projection</text>
+<text x="280" y="283" font-size="2.8" font-family="Arial, Helvetica, sans-serif" text-anchor="start" font-weight="bold">mm / third angle</text>
+<text x="326" y="278" font-size="2.8" font-family="Arial, Helvetica, sans-serif" text-anchor="start" font-weight="bold">Drawn: O. Oluleye   Rev A</text>
+<text x="326" y="283" font-size="2.4" font-family="Arial, Helvetica, sans-serif" text-anchor="start">Date 2026-11-16</text>
+<text x="368" y="278" font-size="2.0" font-family="Arial, Helvetica, sans-serif" text-anchor="start">Sheet</text>
+<text x="368" y="283" font-size="3.2" font-family="Arial, Helvetica, sans-serif" text-anchor="start" font-weight="bold">3 of 4</text>
+<text x="15" y="283" font-size="2.4" font-family="Arial, Helvetica, sans-serif" text-anchor="start">General tolerance +/-0.2 mm (FDM). Dimensions in mm.</text>
+</svg>
