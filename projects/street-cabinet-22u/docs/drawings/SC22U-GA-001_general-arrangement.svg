@@ -1,0 +1,176 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420mm" height="297mm" viewBox="0 0 420 297">
+<rect width="420" height="297" fill="#fff"/>
+<polygon points="10.000,287.000 410.000,287.000 410.000,10.000 10.000,10.000" fill="none" stroke="#000" stroke-width="0.564"/>
+<polygon points="131.300,237.000 212.700,237.000 212.700,79.200 131.300,79.200" fill="none" stroke="#000" stroke-width="0.388"/>
+<polygon points="124.000,79.200 220.000,79.200 192.000,64.200 152.000,64.200" fill="none" stroke="#000" stroke-width="0.388"/>
+<polyline points="131.300,79.200 212.700,79.200" fill="none" stroke="#000" stroke-width="0.176"/>
+<polygon points="133.300,195.000 210.700,195.000 210.700,86.400 133.300,86.400" fill="none" stroke="#000" stroke-width="0.176" stroke-dasharray="1.6 1"/>
+<polygon points="133.500,194.800 210.500,194.800 210.500,86.600 133.500,86.600" fill="none" stroke="#000" stroke-width="0.388"/>
+<polygon points="138.000,147.000 142.000,147.000 142.000,129.000 138.000,129.000" fill="none" stroke="#000" stroke-width="0.318"/>
+<polygon points="209.500,187.000 211.000,187.000 211.000,183.000 209.500,183.000" fill="none" stroke="#000" stroke-width="0.282"/>
+<polygon points="209.500,143.000 211.000,143.000 211.000,139.000 209.500,139.000" fill="none" stroke="#000" stroke-width="0.282"/>
+<polygon points="209.500,99.000 211.000,99.000 211.000,95.000 209.500,95.000" fill="none" stroke="#000" stroke-width="0.282"/>
+<text x="172.000" y="249.000" font-size="3.175" text-anchor="middle" dominant-baseline="central" font-weight="bold" font-family="Arial, Helvetica, sans-serif">FRONT VIEW</text>
+<polyline points="131.300,238.000 131.300,243.500" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="212.700,238.000 212.700,243.500" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="131.300,242.000 212.700,242.000" fill="none" stroke="#000" stroke-width="0.176"/>
+<polygon points="131.300,242.000 133.500,241.400 133.500,242.600" fill="#000"/>
+<polygon points="212.700,242.000 210.500,241.400 210.500,242.600" fill="#000"/>
+<text x="172.000" y="239.800" font-size="2.470" text-anchor="middle" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif">814</text>
+<polyline points="124.000,78.200 124.000,55.700" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="220.000,78.200 220.000,55.700" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="124.000,57.200 220.000,57.200" fill="none" stroke="#000" stroke-width="0.176"/>
+<polygon points="124.000,57.200 126.200,56.600 126.200,57.800" fill="#000"/>
+<polygon points="220.000,57.200 217.800,56.600 217.800,57.800" fill="#000"/>
+<text x="172.000" y="55.000" font-size="2.470" text-anchor="middle" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif">960</text>
+<polyline points="133.500,195.800 133.500,202.300" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="210.500,195.800 210.500,202.300" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="133.500,200.800 210.500,200.800" fill="none" stroke="#000" stroke-width="0.176"/>
+<polygon points="133.500,200.800 135.700,200.200 135.700,201.400" fill="#000"/>
+<polygon points="210.500,200.800 208.300,200.200 208.300,201.400" fill="#000"/>
+<text x="172.000" y="198.600" font-size="2.470" text-anchor="middle" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif">770 (door panel)</text>
+<polyline points="61.000,237.000 233.500,237.000" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="231.800,64.200 230.500,64.200" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="232.000,237.000 232.000,64.200" fill="none" stroke="#000" stroke-width="0.176"/>
+<polygon points="232.000,237.000 231.400,234.800 232.600,234.800" fill="#000"/>
+<polygon points="232.000,64.200 231.400,66.400 232.600,66.400" fill="#000"/>
+<text x="229.800" y="150.600" font-size="2.470" text-anchor="middle" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif" transform="rotate(-90 229.800 150.600)">1728</text>
+<polyline points="61.000,237.000 226.500,237.000" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="218.800,79.200 226.500,79.200" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="225.000,237.000 225.000,79.200" fill="none" stroke="#000" stroke-width="0.176"/>
+<polygon points="225.000,237.000 224.400,234.800 225.600,234.800" fill="#000"/>
+<polygon points="225.000,79.200 224.400,81.400 225.600,81.400" fill="#000"/>
+<text x="222.800" y="158.100" font-size="2.470" text-anchor="middle" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif" transform="rotate(-90 222.800 158.100)">1578</text>
+<polyline points="130.300,237.000 121.800,237.000" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="130.300,195.000 121.800,195.000" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="123.300,237.000 123.300,195.000" fill="none" stroke="#000" stroke-width="0.176"/>
+<polygon points="123.300,237.000 122.700,234.800 123.900,234.800" fill="#000"/>
+<polygon points="123.300,195.000 122.700,197.200 123.900,197.200" fill="#000"/>
+<text x="121.100" y="216.000" font-size="2.470" text-anchor="middle" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif" transform="rotate(-90 121.100 216.000)">420</text>
+<polyline points="130.300,195.000 121.800,195.000" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="130.300,86.400 121.800,86.400" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="123.300,195.000 123.300,86.400" fill="none" stroke="#000" stroke-width="0.176"/>
+<polygon points="123.300,195.000 122.700,192.800 123.900,192.800" fill="#000"/>
+<polygon points="123.300,86.400 122.700,88.600 123.900,88.600" fill="#000"/>
+<text x="121.100" y="140.700" font-size="2.470" text-anchor="middle" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif" transform="rotate(-90 121.100 140.700)">1086 (door opening)</text>
+<polyline points="130.300,86.400 121.800,86.400" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="130.300,79.200 121.800,79.200" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="123.300,86.400 123.300,79.200" fill="none" stroke="#000" stroke-width="0.176"/>
+<polygon points="123.300,86.400 122.700,84.200 123.900,84.200" fill="#000"/>
+<polygon points="123.300,79.200 122.700,81.400 123.900,81.400" fill="#000"/>
+<text x="121.100" y="82.800" font-size="2.117" text-anchor="middle" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif" transform="rotate(-90 121.100 82.800)">72</text>
+<polygon points="31.800,237.000 78.000,237.000 78.000,79.200 31.800,79.200" fill="none" stroke="#000" stroke-width="0.388"/>
+<polygon points="24.500,79.200 85.700,79.200 59.900,64.200 49.900,64.200" fill="none" stroke="#000" stroke-width="0.388"/>
+<polygon points="36.350,195.000 73.450,195.000 73.450,86.400 36.350,86.400" fill="none" stroke="#000" stroke-width="0.176" stroke-dasharray="1.6 1"/>
+<polygon points="36.550,194.800 73.250,194.800 73.250,86.600 36.550,86.600" fill="none" stroke="#000" stroke-width="0.388"/>
+<circle cx="70.000" cy="141.000" r="1.400" fill="none" stroke="#000" stroke-width="0.282"/>
+<text x="55.000" y="249.000" font-size="3.175" text-anchor="middle" dominant-baseline="central" font-weight="bold" font-family="Arial, Helvetica, sans-serif">LEFT SIDE VIEW</text>
+<polyline points="31.800,238.000 31.800,243.500" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="78.000,238.000 78.000,243.500" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="31.800,242.000 78.000,242.000" fill="none" stroke="#000" stroke-width="0.176"/>
+<polygon points="31.800,242.000 34.000,241.400 34.000,242.600" fill="#000"/>
+<polygon points="78.000,242.000 75.800,241.400 75.800,242.600" fill="#000"/>
+<text x="54.900" y="239.800" font-size="2.470" text-anchor="middle" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif">462</text>
+<polyline points="24.500,78.200 24.500,55.700" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="85.700,78.200 85.700,55.700" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="24.500,57.200 85.700,57.200" fill="none" stroke="#000" stroke-width="0.176"/>
+<polygon points="24.500,57.200 26.700,56.600 26.700,57.800" fill="#000"/>
+<polygon points="85.700,57.200 83.500,56.600 83.500,57.800" fill="#000"/>
+<text x="55.100" y="55.000" font-size="2.470" text-anchor="middle" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif">608</text>
+<polyline points="36.350,196.000 36.350,211.500" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="73.450,196.000 73.450,211.500" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="36.350,210.000 73.450,210.000" fill="none" stroke="#000" stroke-width="0.176"/>
+<polygon points="36.350,210.000 38.550,209.400 38.550,210.600" fill="#000"/>
+<polygon points="73.450,210.000 71.250,209.400 71.250,210.600" fill="#000"/>
+<text x="54.900" y="207.800" font-size="2.470" text-anchor="middle" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif">371 (door opening)</text>
+<polyline points="31.800,196.000 31.800,202.500" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="36.350,196.000 36.350,202.500" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="31.800,201.000 36.350,201.000" fill="none" stroke="#000" stroke-width="0.176"/>
+<polygon points="31.800,201.000 34.000,200.400 34.000,201.600" fill="#000"/>
+<polygon points="36.350,201.000 34.150,200.400 34.150,201.600" fill="#000"/>
+<text x="34.075" y="198.800" font-size="2.117" text-anchor="middle" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif">45.5</text>
+<polyline points="73.450,196.000 73.450,202.500" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="78.000,196.000 78.000,202.500" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="73.450,201.000 78.000,201.000" fill="none" stroke="#000" stroke-width="0.176"/>
+<polygon points="73.450,201.000 75.650,200.400 75.650,201.600" fill="#000"/>
+<polygon points="78.000,201.000 75.800,200.400 75.800,201.600" fill="#000"/>
+<text x="75.725" y="198.800" font-size="2.117" text-anchor="middle" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif">45.5</text>
+<polyline points="30.800,237.000 18.000,237.000" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="30.800,79.200 18.000,79.200" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="19.500,237.000 19.500,79.200" fill="none" stroke="#000" stroke-width="0.176"/>
+<polygon points="19.500,237.000 18.900,234.800 20.100,234.800" fill="#000"/>
+<polygon points="19.500,79.200 18.900,81.400 20.100,81.400" fill="#000"/>
+<text x="17.300" y="158.100" font-size="2.470" text-anchor="middle" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif" transform="rotate(-90 17.300 158.100)">1578</text>
+<polyline points="23.500,79.200 18.000,79.200" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="48.900,64.200 18.000,64.200" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="19.500,79.200 19.500,64.200" fill="none" stroke="#000" stroke-width="0.176"/>
+<polygon points="19.500,79.200 18.900,77.000 20.100,77.000" fill="#000"/>
+<polygon points="19.500,64.200 18.900,66.400 20.100,66.400" fill="#000"/>
+<text x="17.300" y="71.700" font-size="2.470" text-anchor="middle" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif" transform="rotate(-90 17.300 71.700)">150</text>
+<polygon points="292.000,204.700 388.000,204.700 388.000,143.500 292.000,143.500" fill="none" stroke="#000" stroke-width="0.388"/>
+<polygon points="320.000,178.900 360.000,178.900 360.000,168.900 320.000,168.900" fill="none" stroke="#000" stroke-width="0.388"/>
+<polyline points="292.000,204.700 320.000,178.900" fill="none" stroke="#000" stroke-width="0.282"/>
+<polyline points="388.000,204.700 360.000,178.900" fill="none" stroke="#000" stroke-width="0.282"/>
+<polyline points="388.000,143.500 360.000,168.900" fill="none" stroke="#000" stroke-width="0.282"/>
+<polyline points="292.000,143.500 320.000,168.900" fill="none" stroke="#000" stroke-width="0.282"/>
+<polygon points="299.300,197.000 380.700,197.000 380.700,150.800 299.300,150.800" fill="none" stroke="#000" stroke-width="0.176" stroke-dasharray="1.6 1"/>
+<text x="340.000" y="216.700" font-size="3.175" text-anchor="middle" dominant-baseline="central" font-weight="bold" font-family="Arial, Helvetica, sans-serif">TOP VIEW</text>
+<polyline points="292.000,205.700 292.000,211.200" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="388.000,205.700 388.000,211.200" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="292.000,209.700 388.000,209.700" fill="none" stroke="#000" stroke-width="0.176"/>
+<polygon points="292.000,209.700 294.200,209.100 294.200,210.300" fill="#000"/>
+<polygon points="388.000,209.700 385.800,209.100 385.800,210.300" fill="#000"/>
+<text x="340.000" y="207.500" font-size="2.470" text-anchor="middle" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif">960</text>
+<polyline points="320.000,167.900 320.000,135.000" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="360.000,167.900 360.000,135.000" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="320.000,136.500 360.000,136.500" fill="none" stroke="#000" stroke-width="0.176"/>
+<polygon points="320.000,136.500 322.200,135.900 322.200,137.100" fill="#000"/>
+<polygon points="360.000,136.500 357.800,135.900 357.800,137.100" fill="#000"/>
+<text x="340.000" y="134.300" font-size="2.470" text-anchor="middle" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif">400</text>
+<polyline points="389.000,204.700 395.500,204.700" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="389.000,143.500 395.500,143.500" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="394.000,204.700 394.000,143.500" fill="none" stroke="#000" stroke-width="0.176"/>
+<polygon points="394.000,204.700 393.400,202.500 394.600,202.500" fill="#000"/>
+<polygon points="394.000,143.500 393.400,145.700 394.600,145.700" fill="#000"/>
+<text x="391.800" y="174.100" font-size="2.470" text-anchor="middle" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif" transform="rotate(-90 391.800 174.100)">608</text>
+<polyline points="361.000,178.900 402.500,178.900" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="361.000,168.900 402.500,168.900" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="401.000,178.900 401.000,168.900" fill="none" stroke="#000" stroke-width="0.176"/>
+<polygon points="401.000,178.900 400.400,176.700 401.600,176.700" fill="#000"/>
+<polygon points="401.000,168.900 400.400,171.100 401.600,171.100" fill="#000"/>
+<text x="398.800" y="173.900" font-size="2.470" text-anchor="middle" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif" transform="rotate(-90 398.800 173.900)">100</text>
+<polyline points="298.300,197.000 284.500,197.000" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="298.300,150.800 284.500,150.800" fill="none" stroke="#000" stroke-width="0.141"/>
+<polyline points="286.000,197.000 286.000,150.800" fill="none" stroke="#000" stroke-width="0.176"/>
+<polygon points="286.000,197.000 285.400,194.800 286.600,194.800" fill="#000"/>
+<polygon points="286.000,150.800 285.400,153.000 286.600,153.000" fill="#000"/>
+<text x="283.800" y="173.900" font-size="2.470" text-anchor="middle" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif" transform="rotate(-90 283.800 173.900)">462 (body)</text>
+<text x="16.000" y="17.000" font-size="2.470" text-anchor="start" dominant-baseline="central" font-weight="bold" font-family="Arial, Helvetica, sans-serif">GENERAL NOTES</text>
+<text x="16.000" y="21.600" font-size="2.223" text-anchor="start" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif">1. Cabinet body: 2 mm steel sheet, welded construction.</text>
+<text x="16.000" y="26.200" font-size="2.223" text-anchor="start" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif">2. Finish: electrostatic outdoor powder coat, RAL 7035 light grey.</text>
+<text x="16.000" y="30.800" font-size="2.223" text-anchor="start" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif">3. Overall envelope 1728 x 814 x 462 mm (H x W x D), canopy 960 x 608.</text>
+<text x="16.000" y="35.400" font-size="2.223" text-anchor="start" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif">4. Rack capacity 22U (977.9 mm mounting height).</text>
+<text x="16.000" y="40.000" font-size="2.223" text-anchor="start" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif">5. Front door hinged on right, left-hand handle; side door on left face.</text>
+<text x="16.000" y="44.600" font-size="2.223" text-anchor="start" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif">6. Ingress protection class IP56.</text>
+<text x="16.000" y="49.200" font-size="2.223" text-anchor="start" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif">7. Dimensions in millimetres. Do not scale from print.</text>
+<polygon points="230.000,287.000 410.000,287.000 410.000,243.000 230.000,243.000" fill="none" stroke="#000" stroke-width="0.494"/>
+<polyline points="230.000,257.000 410.000,257.000" fill="none" stroke="#000" stroke-width="0.282"/>
+<polyline points="230.000,272.000 410.000,272.000" fill="none" stroke="#000" stroke-width="0.282"/>
+<polyline points="290.000,287.000 290.000,272.000" fill="none" stroke="#000" stroke-width="0.282"/>
+<polyline points="350.000,287.000 350.000,272.000" fill="none" stroke="#000" stroke-width="0.282"/>
+<polyline points="350.000,272.000 350.000,257.000" fill="none" stroke="#000" stroke-width="0.282"/>
+<text x="233.000" y="247.000" font-size="3.175" text-anchor="start" dominant-baseline="central" font-weight="bold" font-family="Arial, Helvetica, sans-serif">22U PYRAMID-CANOPY OUTDOOR STREET CABINET</text>
+<text x="233.000" y="253.500" font-size="2.470" text-anchor="start" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif">GENERAL ARRANGEMENT</text>
+<text x="233.000" y="261.000" font-size="1.764" text-anchor="start" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif">DESIGNED / DRAWN BY</text>
+<text x="233.000" y="266.500" font-size="2.822" text-anchor="start" dominant-baseline="central" font-weight="bold" font-family="Arial, Helvetica, sans-serif">Oluwatimileyin Oluleye</text>
+<text x="353.000" y="261.000" font-size="1.764" text-anchor="start" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif">DRAWING NO.</text>
+<text x="353.000" y="266.500" font-size="2.822" text-anchor="start" dominant-baseline="central" font-weight="bold" font-family="Arial, Helvetica, sans-serif">SC22U-GA-001</text>
+<text x="233.000" y="276.000" font-size="1.764" text-anchor="start" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif">SCALE</text>
+<text x="233.000" y="282.000" font-size="2.822" text-anchor="start" dominant-baseline="central" font-weight="bold" font-family="Arial, Helvetica, sans-serif">1:10</text>
+<text x="293.000" y="276.000" font-size="1.764" text-anchor="start" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif">UNITS</text>
+<text x="293.000" y="282.000" font-size="2.822" text-anchor="start" dominant-baseline="central" font-weight="bold" font-family="Arial, Helvetica, sans-serif">mm</text>
+<text x="353.000" y="276.000" font-size="1.764" text-anchor="start" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif">SHEET / REV</text>
+<text x="353.000" y="282.000" font-size="2.822" text-anchor="start" dominant-baseline="central" font-weight="bold" font-family="Arial, Helvetica, sans-serif">1 of 2  /  Rev A</text>
+<text x="293.000" y="253.500" font-size="2.470" text-anchor="start" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif">DATE: 24 Nov 2026</text>
+<text x="350.000" y="253.500" font-size="2.470" text-anchor="start" dominant-baseline="central" font-weight="normal" font-family="Arial, Helvetica, sans-serif">GENERAL TOLERANCE: ISO 2768-m</text>
+</svg>
