@@ -1,0 +1,6 @@
+check,method,result
+Model rebuild,Fusion timeline health check,All 60 timeline items healthy
+Overall envelope,Bounding box of the closed-door model,761.0 x 985.2 x 1933.0 mm
+Door clearance,Minimum distance between door and cabinet bodies,3.000 mm
+Body volumes,Fusion body properties,Cabinet 17982 cm3; Front door 1690 cm3
+Mass,Model volume x 7.85 g/cm3,154.4 kg empty (cabinet 141.2; door 13.3)
