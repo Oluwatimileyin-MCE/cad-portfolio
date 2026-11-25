@@ -1,0 +1,17 @@
+item,description,qty,material,size_mm
+1,Equipment cabinet shell and plinth,1,Steel sheet 1.5 mm,762 x 660 x 1829
+2,Front door with louver hood (fans and filters),1,Steel sheet,762 x 1631 x 239
+3,Rear door with exhaust hood (fan and filter),1,Steel sheet,762 x 1631 x 305
+4,Door hinge,6,Galvanized steel,Dia 18 x 102
+5,GPS antenna mast,1,Galvanized steel / polymer dome,Dia 41 x 191
+6,Lifting eye bolt,8,Galvanized steel,Ring dia 48
+7,Side interface panel with display,1,Steel / electronics,343 x 193 x 10
+8,19 in rack rail 23RU,4,Galvanized steel,L-section x 1022
+9,12 kW DC power system (6-position rectifier shelf and controller),1,Steel / electronics,452 x 356 x 267
+10,Dual PDU 22-position (critical and non-critical),2,Electronics,107 x 102 x 457
+11,AC load center and surge protection set,1,Electronics,107 x 114 x 609
+12,Alarm and sensor set,1,Electronics,set
+13,Internal VRLA battery string 1 (4 blocks),1,VRLA,117 x 546 x 279 per block
+14,Battery cabinet shell and door assembly,1,Steel sheet,373 x 726 x 1829
+15,External VRLA battery strings 2 and 3 (4 blocks each),2,VRLA,132 x 559 x 279 per block
+16,DC distribution panel and exhaust fan,1,Steel / electronics,292 x 203 x 229
