@@ -1,0 +1,7 @@
+item,qty,part,material,key_dimensions_mm,cad_volume_cm3,mass_g
+1,1,Flask body,Food-contact PP,"OD 82; height 245.9; wall 3.0; neck thread major 54.0 / minor 50.0, 3-start, lead 9.0; bore 48.0",187.97,170.1
+2,1,Screw cap,Food-contact PP,"OD 58 (62 over grip lobes); height 19.0; internal 3-start thread tip 50.5 / floor 54.5; lug hole 5.0",17.13,15.5
+3,1,Cap gasket,Food-grade silicone,"OD 54 x ID 48 x 2.0 thick",0.96,1.1
+4,1,Captive strap,Food-grade silicone,"ring ID 50 x OD 56 x 5.0 high; tether 8.0 wide; eye OD 11 with 5.0 hole at 41.5 radius",3.22,3.7
+5,1,Link ring A,Food-grade silicone,"wire dia 2.0; OD 26; centreline dia 24",0.24,0.3
+6,1,Link ring B,Food-grade silicone,"wire dia 2.0; OD 20; centreline dia 18",0.18,0.2

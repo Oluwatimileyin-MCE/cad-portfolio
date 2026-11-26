@@ -1,0 +1,30 @@
+parameter,value,unit,notes
+capacity_to_brim,1000.1,mL,CAD cavity volume
+body_outer_diameter,82,mm,
+body_height_to_neck_top,245.9,mm,
+body_wall,3.0,mm,floor also 3.0
+base_radius_outer_inner,10 / 7,mm,
+shoulder_start_z,198.9,mm,cone 25 high to neck step
+neck_root_diameter,50.0,mm,tolerance +-0.15
+neck_bore,48.0,mm,
+thread_major_diameter,54.0,mm,tolerance +-0.15
+thread_starts,3,-,spaced 120 deg
+thread_pitch,3.0,mm,axial spacing of adjacent flanks
+thread_lead,9.0,mm,per revolution
+thread_flank_angle,15,deg,each side (30 included)
+thread_length,14.0,mm,z 231.9 to 245.9
+cap_outer_diameter,58,mm,62 over grip lobes
+cap_height,19.0,mm,inner depth 15.0
+cap_thread_tip_diameter,50.5,mm,
+cap_thread_floor_diameter,54.5,mm,
+thread_clearance_axial,0.15,mm,per flank
+thread_clearance_radial,0.25,mm,
+gasket_size,48 / 54 x 2.0,mm,ID / OD x thickness
+gasket_squeeze,0.5,mm,closed position
+strap_ring,50 / 56 x 5.0,mm,ID / OD x height
+eye_centre_radius,41.5,mm,hole dia 5.0
+lug_hole,52 / -7.5,mm,dia 5.0
+link_ring_a,26 OD x 2.0 wire,mm,centreline dia 24
+link_ring_b,20 OD x 2.0 wire,mm,centreline dia 18
+cap_travel_per_turn,9.0,mm,
+cap_release_travel,14.5,mm,580 deg
