@@ -1,0 +1,9 @@
+item,part_no,description,qty,material
+1,SDS-T-01,Table top 1600 x 900 x 20,1,Sintered stone
+2,SDS-T-02,Sub-frame tube 40 x 20 x 2 L1500,2,AISI 304
+3,SDS-T-03,Sub-frame tube 40 x 20 x 2 L720,2,AISI 304
+4,SDS-T-04,Tapered leg 2 mm wall H706,4,AISI 304
+5,SDS-T-05,Leg glide 40 x 25 x 4,4,Nylon 6
+6,SDS-C-01,Chair frame welded rod (dia 6 / dia 4),4,AISI 304
+7,SDS-C-02,Seat pad 450 x 432 x 30,4,HR PU foam / polyester cover
+8,SDS-C-03,Chair glide dia 20 x 4,16,Nylon 6

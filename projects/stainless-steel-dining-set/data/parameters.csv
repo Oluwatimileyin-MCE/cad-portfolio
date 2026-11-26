@@ -1,0 +1,36 @@
+part,parameter,value,unit
+table,length,1600,mm
+table,width,900,mm
+table,height,750,mm
+table,top thickness,20,mm
+table,top corner radius,5,mm
+table,top edge arris,1.5,mm
+table,sub-frame outer length,1500,mm
+table,sub-frame outer width,800,mm
+table,sub-frame tube,40x20x2,mm
+table,leg height,706,mm
+table,leg head section,90x25,mm
+table,leg foot section,40x25,mm
+table,leg wall,2,mm
+table,leg centre x,700,mm
+table,leg centre y,385,mm
+table,mass approx,91,kg
+chair,width,450,mm
+chair,depth,566,mm
+chair,height,830,mm
+chair,seat height,450,mm
+chair,seat pad,450x432x30,mm
+chair,seat pad corner radius,30,mm
+chair,frame rod diameter,6,mm
+chair,slat rod diameter,4,mm
+chair,slat count,11,
+chair,slat pitch,36,mm
+chair,back rake,10,deg
+chair,floor bend radius,40,mm
+chair,back transition radius,200,mm
+chair,glide,20x4,mm
+chair,mass approx,1.9,kg
+set,chairs,4,
+set,footprint,1600x1775,mm
+set,seat-to-table clearance,300,mm
+set,mass approx,98,kg
