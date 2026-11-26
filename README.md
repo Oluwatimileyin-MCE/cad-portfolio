@@ -1,8 +1,8 @@
-# CAD Design Portfolio
+﻿# CAD Design Portfolio
 
 All my CAD designs in one place. Each project has its own folder with the model exports, drawings, parameter data and a write-up of the design process and how the design was checked.
 
-**Oluwatimileyin Oluleye** · CAD Designer · [oluwatimileyinoluleye@gmail.com](mailto:oluwatimileyinoluleye@gmail.com) · [LinkedIn](https://www.linkedin.com/in/oluwatimileyinoluleye)
+**Oluwatimileyin Oluleye** Â· CAD Designer Â· [oluwatimileyinoluleye@gmail.com](mailto:oluwatimileyinoluleye@gmail.com) Â· [LinkedIn](https://www.linkedin.com/in/oluwatimileyinoluleye)
 
 ---
 
@@ -23,6 +23,7 @@ All my CAD designs in one place. Each project has its own folder with the model 
 | [Orange Pi Zero 3 Enclosure](projects/orange-pi-zero-3-enclosure/) ([start here](projects/orange-pi-zero-3-enclosure/START-HERE.md)) | Gasketed, print-ready enclosure for an Orange Pi Zero 3 with LCD window, card reader, switch, reset pin and angled vents. 3D assembly, 4-sheet drawing set, specification, assembly guide and STL print files. | Autodesk Fusion | Design complete; interference-checked, print files released |
 | [750 mL Takeaway Container](projects/takeaway-container-750/) ([start here](projects/takeaway-container-750/START-HERE.md)) | Stackable clear takeaway pack with snap-fit lid and integral plug seal. Drawing audit, parametric build and digital fit verification. | Autodesk Fusion | Digitally verified; physical prototype testing pending |
 | [Four-Side Clip-Lock Food Container](projects/clip-lock-container/) ([start here](projects/clip-lock-container/START-HERE.md)) | Gasketed food container with four PP latch clips. Full 3D assembly, 6-sheet drawing set, specification and snap-fit validation. | Autodesk Fusion | Design complete; interference and snap-fit validated |
+| [Modern Minimalist Stainless Steel Dining Set](https://github.com/Oluwatimileyin-MCE/cad-portfolio/blob/main/projects/modern-minimalist-ss-dining-set) ([start here](https://github.com/Oluwatimileyin-MCE/cad-portfolio/blob/main/projects/modern-minimalist-ss-dining-set/START-HERE.md)) | Four-seat dining set: marble-print glass-top table on a mirror-polished 304 stainless frame with four upholstered chairs on tapered stainless legs. 3D assembly, three dimensioned drawing sheets, specification, bill of materials, STEP/STL/F3D exports and multi-angle views. | Autodesk Fusion | Design complete; Rev A released |
 | [Modern Minimalist Stainless Steel Dining Set](https://github.com/Oluwatimileyin-MCE/cad-portfolio/blob/main/projects/stainless-steel-dining-set) ([start here](https://github.com/Oluwatimileyin-MCE/cad-portfolio/blob/main/projects/stainless-steel-dining-set/START-HERE.md)) | Stainless steel dining table with sintered stone top and four wire-frame chairs. 3D assembly, 3-sheet dimensioned drawing set with bill of materials, specification, F3D/STEP/STL exports and multi-angle views. | Autodesk Fusion | Design complete; Rev A released |
 
 <!-- Add a new row here for each project. Keep the newest at the top. -->
@@ -37,20 +38,20 @@ All my CAD designs in one place. Each project has its own folder with the model 
 
 ```
 cad-portfolio/
-├── README.md                  # this index
-├── projects/
-│   └── <project-name>/        # one folder per design, lower-case-with-hyphens
-│       ├── START-HERE.md      # one-page guide: which file to open, status, open items
-│       ├── README.md          # case study: brief, process, verification, status
-│       ├── CHANGELOG.md       # revision history
-│       ├── cad/               # .f3d / .step model exports
-│       ├── print/             # STL print files (where applicable)
-│       ├── data/              # parameter tables, test results (CSV)
-│       └── docs/              # drawings, images, specs
-├── templates/
-│   └── project-template/      # copy this to start a new project
-├── .gitattributes             # Git LFS rules for large CAD/binary files
-└── .gitignore
+â”œâ”€â”€ README.md                  # this index
+â”œâ”€â”€ projects/
+â”‚   â””â”€â”€ <project-name>/        # one folder per design, lower-case-with-hyphens
+â”‚       â”œâ”€â”€ START-HERE.md      # one-page guide: which file to open, status, open items
+â”‚       â”œâ”€â”€ README.md          # case study: brief, process, verification, status
+â”‚       â”œâ”€â”€ CHANGELOG.md       # revision history
+â”‚       â”œâ”€â”€ cad/               # .f3d / .step model exports
+â”‚       â”œâ”€â”€ print/             # STL print files (where applicable)
+â”‚       â”œâ”€â”€ data/              # parameter tables, test results (CSV)
+â”‚       â””â”€â”€ docs/              # drawings, images, specs
+â”œâ”€â”€ templates/
+â”‚   â””â”€â”€ project-template/      # copy this to start a new project
+â”œâ”€â”€ .gitattributes             # Git LFS rules for large CAD/binary files
+â””â”€â”€ .gitignore
 ```
 
 ## Adding a new project

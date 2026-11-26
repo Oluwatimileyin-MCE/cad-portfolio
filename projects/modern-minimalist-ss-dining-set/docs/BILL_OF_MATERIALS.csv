@@ -1,0 +1,13 @@
+Assembly,Item,Description,Material,Qty,Notes
+Table SDS-T120,1,Table frame weldment (4 legs + 8 rails),AISI 304 tube 30x30x1.5,1,"Legs 738 mm; long rails 1060 mm x4; short rails 610 mm x4; mirror polished"
+Table SDS-T120,2,Table top 1200x750x12,Tempered glass marble print,1,"Polished flat edge, 2 mm arris"
+Table SDS-T120,3,Corner bumper,Clear PU,4,
+Table SDS-T120,4,Levelling foot M8,Stainless steel,4,"+/-8 mm"
+Table SDS-T120,5,Structural silicone,Neutral cure,1,"Top bonding"
+Chair SDS-C45,1,Tapered leg 30>20 x 410,AISI 304 tube 1.5 wall,4,"End-capped"
+Chair SDS-C45,2,Seat rail 332 mm,AISI 304 tube 20x20x1.5,4,"Welded to legs"
+Chair SDS-C45,3,Seat and back shell (upholstered),Plywood 12 + PU foam 28 + fabric,1,"430 wide; 8 deg back rake; R8 edge"
+Chair SDS-C45,4,Fastener M6,Stainless steel,6,
+Chair SDS-C45,5,Foot glide,Nylon,4,
+Set SDS-100,1,Dining table,,1,
+Set SDS-100,2,Dining chair,,4,
