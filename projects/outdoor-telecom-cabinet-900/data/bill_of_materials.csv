@@ -1,0 +1,28 @@
+item,description,qty,material,size_mm,unit_mass_kg
+1,Base plinth with hoisting holes and anchor flange,1,Galvanised sheet steel,950 x 950 x 100,51.34
+2,Cabinet body shell,1,Galvanised sheet steel,900 x 900 x 1857,138.34
+3,Hip roof canopy,1,Galvanised sheet steel,940 x 940 x 103,16.00
+4,Front door panel with louvred vents,1,Galvanised sheet steel,872 x 26 x 1822,28.40
+5,Door gasket,1,Rubber,860 x 2 x 1810,0.10
+6,"Hinge leaf, door side",3,Steel,30 x 16 x 110,0.13
+7,"Hinge leaf with pin, body side",3,Steel,16 x 44 x 116,0.12
+8,Door handle and barrel lock,1,Steel / ABS plastic,50 x 42 x 190,0.50
+9,Floor divider plate,1,Galvanised sheet steel,892 x 866 x 2,11.75
+10,Battery tray,1,Galvanised sheet steel,690 x 400 x 27,5.18
+11,Battery 12 V 100 Ah,4,ABS plastic / Copper,329 x 172 x 225,12.93
+12,"19-inch rack frame, 4 uprights",1,Galvanised sheet steel,530 x 480 x 1508,9.04
+13,Rack side brackets,1,Galvanised sheet steel,892 x 500 x 1002,1.35
+14,DC distribution unit 3U,1,Steel,483 x 238 x 132,6.50
+15,Rectifier shelf 5U with 4 modules,1,Steel,483 x 312 x 221,14.85
+16,Fibre patch panel 2U,1,Steel,483 x 210 x 88,4.37
+17,Monitoring unit 1U,1,Steel,483 x 155 x 43,2.62
+18,Equipment shelf,3,Galvanised sheet steel,483 x 480 x 43,3.50
+19,Cable tray with wall brackets,1,Galvanised sheet steel,892 x 430 x 42,3.07
+20,Copper grounding bar on insulators,1,Copper / ABS plastic,300 x 32 x 40,0.64
+21,Smoke sensor,1,ABS plastic,100 x 100 x 47,0.35
+22,Thermostat,1,ABS plastic,30 x 70 x 90,0.20
+23,Water-ingress sensor,1,ABS plastic,60 x 40 x 31,0.07
+24,LED lamp 48 V,1,ABS plastic,430 x 30 x 38,0.24
+25,Entrance guard contact sensor,1,ABS plastic,8 x 12 x 40,0.00
+26,Entrance guard magnet,1,Steel,4 x 10 x 30,0.01
+27,Air conditioner 1500 W,1,Steel,150 x 450 x 800,17.73

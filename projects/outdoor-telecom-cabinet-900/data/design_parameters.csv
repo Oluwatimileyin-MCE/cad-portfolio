@@ -1,0 +1,37 @@
+parameter,value,unit
+plinth_width,950,mm
+plinth_depth,950,mm
+plinth_height,100,mm
+plinth_wall_thickness,5,mm
+body_width,900,mm
+body_depth,900,mm
+body_top_height,1957.3,mm
+overall_height,2060,mm
+sheet_thickness,2,mm
+roof_eave_size,940,mm
+roof_rise,102.7,mm
+roof_hip_angle,45,deg
+door_opening_width,840,mm
+door_opening_height,1790,mm
+door_width,872,mm
+door_height,1822,mm
+door_thickness,26,mm
+door_max_opening_angle,110,deg
+hinge_count,3,qty
+hoisting_hole_diameter,40,mm
+hoisting_hole_count,4,qty
+anchor_hole_diameter,18,mm
+anchor_hole_count,4,qty
+cable_entry_opening,500 x 240,mm
+rear_knockout_diameter,40,mm
+rear_knockout_count,3,qty
+rack_standard,19 inch,
+rack_usable_units,30,U
+rack_usable_height,1333.5,mm
+rack_clear_width,450,mm
+equipment_shelf_count,3,qty
+battery_count,4,qty
+battery_size,329 x 172 x 215,mm
+air_conditioner_rating,1500,W
+air_conditioner_size,450 x 150 x 800,mm
+footprint_with_ac_and_handle,1075 x 995,mm
